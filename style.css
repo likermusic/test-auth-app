@@ -23,3 +23,12 @@
 .promo h2 {
   color: blue;
 }
+
+button {
+  background-color: aqua;
+}
+
+h1 {
+  color: blue;
+  text-decoration: underline;
+}
